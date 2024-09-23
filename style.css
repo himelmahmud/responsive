@@ -1,1 +1,15 @@
+.wraper {
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  margin: auto;
+  text-align: center;
+}
 
+.wraper h1{
+    font-size: 55px;
+}
+
+.wraper p{
+    font-size: 22px;
+}
